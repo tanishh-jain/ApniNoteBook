@@ -3,7 +3,7 @@
 ApniNoteBook is a full-stack AI-powered note management system with real-time synchronization, premium features, and secure authentication.
 
 🌐 **Live App:** https://apninotebook.in  
-⚙ **Backend API:** https://your-render-url.onrender.com  
+⚙ **Backend API:** https://apninotebook.onrender.com  
 👨‍💻 **Portfolio:** https://tanishjain.in  
 
 ---
