@@ -176,8 +176,7 @@ const AIGenerateModal = ({ isOpen, onClose, title, selectedFont, onAddToNote, sh
 
     const API_URL = "https://openrouter.ai/api/v1/chat/completions";
     const API_KEY =
-      process.env.REACT_APP_OPENROUTER_API_KEY ||
-      "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";
+      process.env.REACT_APP_OPENROUTER_API_KEY;
 
     const maxTokens = {
       concise: 200,
